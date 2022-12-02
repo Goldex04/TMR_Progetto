@@ -1,0 +1,10 @@
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\bin\Debug\Gozzi_progetto_client.exe.config
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\bin\Debug\Gozzi_progetto_client.exe
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\bin\Debug\Gozzi_progetto_client.pdb
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.csproj.AssemblyReference.cache
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.Form1.resources
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.Properties.Resources.resources
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.csproj.GenerateResource.cache
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.csproj.CoreCompileInputs.cache
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.exe
+C:\Users\jakib\OneDrive\Desktop\Gozzi_progetto\Gozzi_progetto_client\obj\Debug\Gozzi_progetto_client.pdb
